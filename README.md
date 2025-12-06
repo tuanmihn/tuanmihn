@@ -1,6 +1,6 @@
 ## Hi there, I'm Minh 👋
 
-## 🔭 I’m currently studying IT at Thang Long University
+### 🔭 I’m currently studying IT at Thang Long University
 
 <!--
 **tuanmihn/tuanmihn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
